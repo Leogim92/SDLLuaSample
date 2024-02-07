@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\mingw64\bin\ar.exe qc libadder.a CMakeFiles/adder.dir/adder.cpp.obj
+C:\PROGRA~1\MINGW-~1\mingw64\bin\ranlib.exe libadder.a

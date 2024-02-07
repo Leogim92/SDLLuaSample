@@ -1,0 +1,206 @@
+[
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/GameProject.dir/includes_CXX.rsp -g -o CMakeFiles\\GameProject.dir\\main.cpp.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\main.cpp",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/main.cpp",
+  "output": "CMakeFiles/GameProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lapi.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lapi.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lapi.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lapi.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lauxlib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lauxlib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lauxlib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lauxlib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lbaselib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lbaselib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lbaselib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lbaselib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lcode.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lcode.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lcode.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lcode.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lcorolib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lcorolib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lcorolib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lcorolib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lctype.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lctype.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lctype.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lctype.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\ldblib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\ldblib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/ldblib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/ldblib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\ldebug.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\ldebug.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/ldebug.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/ldebug.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\ldo.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\ldo.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/ldo.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/ldo.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\ldump.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\ldump.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/ldump.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/ldump.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lfunc.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lfunc.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lfunc.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lfunc.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lgc.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lgc.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lgc.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lgc.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\linit.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\linit.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/linit.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/linit.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\liolib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\liolib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/liolib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/liolib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\llex.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\llex.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/llex.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/llex.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lmathlib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lmathlib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lmathlib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lmathlib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lmem.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lmem.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lmem.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lmem.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\loadlib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\loadlib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/loadlib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/loadlib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lobject.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lobject.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lobject.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lobject.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lopcodes.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lopcodes.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lopcodes.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lopcodes.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\loslib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\loslib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/loslib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/loslib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lparser.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lparser.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lparser.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lparser.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lstate.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lstate.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lstate.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lstate.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lstring.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lstring.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lstring.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lstring.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lstrlib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lstrlib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lstrlib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lstrlib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\ltable.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\ltable.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/ltable.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/ltable.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\ltablib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\ltablib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/ltablib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/ltablib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\ltm.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\ltm.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/ltm.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/ltm.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lua.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lua.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lua.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lua.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lundump.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lundump.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lundump.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lundump.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lutf8lib.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lutf8lib.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lutf8lib.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lutf8lib.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lvm.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lvm.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lvm.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lvm.c.obj"
+},
+{
+  "directory": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\lua.dir\\lzio.c.obj -c C:\\Users\\Miguel\\Desktop\\CPPCourse\\GameProject\\libs\\lua\\lzio.c",
+  "file": "C:/Users/Miguel/Desktop/CPPCourse/GameProject/libs/lua/lzio.c",
+  "output": "libs/lua/CMakeFiles/lua.dir/lzio.c.obj"
+}
+]

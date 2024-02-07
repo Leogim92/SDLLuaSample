@@ -1,0 +1,1 @@
+ -lmingw32 C:/SDL2/lib/libSDL2Main.a C:/SDL2/lib/libSDL2.dll.a libs/lua/liblua.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

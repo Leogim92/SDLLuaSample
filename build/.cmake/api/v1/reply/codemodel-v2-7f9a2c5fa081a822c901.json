@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "libs/lua",
+					"jsonFile" : "directory-libs.lua-Debug-a3bc546b582a54001391.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/lua",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "GameProject",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GameProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GameProject-Debug-d31391078b6b324dd38b.json",
+					"name" : "GameProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lua::@e511fa088b5a58e64f96",
+					"jsonFile" : "target-lua-Debug-ca2b38e3c9fe5851af0f.json",
+					"name" : "lua",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Miguel/Desktop/CPPCourse/GameProject/build",
+		"source" : "C:/Users/Miguel/Desktop/CPPCourse/GameProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

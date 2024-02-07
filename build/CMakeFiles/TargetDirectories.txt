@@ -1,0 +1,6 @@
+C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/CMakeFiles/GameProject.dir
+C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua/CMakeFiles/lua.dir
+C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/Desktop/CPPCourse/GameProject/build/libs/lua/CMakeFiles/rebuild_cache.dir
